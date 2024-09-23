@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/RanoushVilla/static/css/main.34de6062.chunk.css",
-    "main.js": "/RanoushVilla/static/js/main.a084adef.chunk.js",
-    "main.js.map": "/RanoushVilla/static/js/main.a084adef.chunk.js.map",
+    "main.js": "/RanoushVilla/static/js/main.288cca16.chunk.js",
+    "main.js.map": "/RanoushVilla/static/js/main.288cca16.chunk.js.map",
     "runtime~main.js": "/RanoushVilla/static/js/runtime~main.67a119ab.js",
     "runtime~main.js.map": "/RanoushVilla/static/js/runtime~main.67a119ab.js.map",
-    "static/js/2.596523c0.chunk.js": "/RanoushVilla/static/js/2.596523c0.chunk.js",
-    "static/js/2.596523c0.chunk.js.map": "/RanoushVilla/static/js/2.596523c0.chunk.js.map",
+    "static/js/2.95e7097b.chunk.js": "/RanoushVilla/static/js/2.95e7097b.chunk.js",
+    "static/js/2.95e7097b.chunk.js.map": "/RanoushVilla/static/js/2.95e7097b.chunk.js.map",
     "index.html": "/RanoushVilla/index.html",
-    "precache-manifest.9ab943bf40a3bf494def71bed53b1457.js": "/RanoushVilla/precache-manifest.9ab943bf40a3bf494def71bed53b1457.js",
+    "precache-manifest.deadd7a0ca5d12dfb5176ceb92392e28.js": "/RanoushVilla/precache-manifest.deadd7a0ca5d12dfb5176ceb92392e28.js",
     "service-worker.js": "/RanoushVilla/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/RanoushVilla/static/css/main.34de6062.chunk.css.map"
   }
